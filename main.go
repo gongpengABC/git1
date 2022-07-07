@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("hello git 4")
 	fmt.Println("master分支")
 	fmt.Println("这是我的第hotfix版本")
+	fmt.Println("这是我往github上推送的数据")
 
 }
